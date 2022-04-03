@@ -1,0 +1,26 @@
+{
+    "updated": "16-03 5.50 PM",
+    "data": [{
+      "id": "01",
+      "type": "m3u8",
+      "text": "IPL - Stream 1",
+      "url": ""
+    }, {
+        "id": "02",
+        "type": "m3u8",
+        "text": "IPL - Stream 2",
+        "url": ""
+    }, {
+        "id": "03",
+        "type": "html",
+        "text": "IPL - Stream 3",
+        "url": ""
+    },{
+      "id": "04",
+      "type": "url",
+      "text": "IPL - Stream 4",
+      "url": ""
+    }
+    
+    ]
+  }
