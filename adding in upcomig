@@ -1,0 +1,12 @@
+<!--The match container in the today's match section-->
+                            <div class="match">
+                                <div class="game">
+                                    <div class="league">SRH vs RR</div>
+                                    <div class="team1-logo"><img src="https://ik.imagekit.io/srgimg/IPl_teams/SRH" alt=""></div>
+                                    <div class="team1-name">Sunrisers Hyd</div>
+                                    <div class="score"><span></span> - <span></span></div>
+                                    <div class="team2-name">Rajasthan Royals</div>
+                                    <div class="team2-logo"><img src="https://ik.imagekit.io/srgimg/IPl_teams/RR" alt=""></div>
+                                </div>
+                                <span></span>
+                            </div>
