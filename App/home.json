@@ -1,7 +1,6 @@
 {
     "updated": "16-03 5.50 PM",
-    "data": [{
-      "id": "livem",
+    "live": [{
       "team1": "SRH",
       "team2": "LSG",
       "team1full": "Sunrisers Hyd",
@@ -10,7 +9,6 @@
       "url": "live1.json",
       "__v": 0
     }, {
-      "id": "livem",
       "team1": "SRH",
       "team2": "LSG",
       "team1full": "Sunrisers Hyd",
@@ -18,8 +16,10 @@
       "starts": "7.30 PM",
       "url": "live1.json",
       "__v": 0
-    }, {
-      "id": "upcome",
+    }
+    
+    ],
+    "upcoming": [{
       "team1": "SRH",
       "team2": "LSG",
       "team1full": "Sunrisers Hyd",
